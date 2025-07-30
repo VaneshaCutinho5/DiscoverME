@@ -20,8 +20,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanesha-cutinho![Uploading image.png…]()
-&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanesha-cutinho&layout=compact)
 ---
 
 ## 🕸️ GitHub Stats:
