@@ -1,6 +1,6 @@
 # DiscoverME
 <!-- Banner or Spiderman header image -->
-<img src="your-spiderman-banner-link" alt="Spiderman Banner" style="width:100%;"/>
+<img src="https://i.imgur.com/SpideyBanner123.png" alt="Spidey Banner" style="width:100%;"/>
 
 # 🕸️ Hey there, I'm Vanesha! (a.k.a Spidey-Dev)
 
