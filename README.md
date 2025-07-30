@@ -9,7 +9,7 @@
 ---
 
 ## 🔗 Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/your-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/vanesha-cutinho/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter)](https://twitter.com/your-handle)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram)](https://instagram.com/your-handle)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=HackerRank)](https://www.hackerrank.com/your-handle)
@@ -31,8 +31,11 @@
 
 ## 🦸 About Me:
 ```txt
-🕷️ 22 years old | Web Dev Enthusiast | Tech Explorer
-🧠 Learning: TypeScript, React, and FastAPI
-🎮 Interests: Games, Comics, and Memes
+🕷️ 23 years old | Web Dev Enthusiast | Tech Explorer
+🧠 Learning: JavaScript, React, and FastAPI
+🤖 I love turning complex bugs into elegant solutions 
+🍕 Fuelled by coffee, code, and sometimes shawarma
+🎮 Interests: Games, Comics, and Anime
 🛠️ Motto: "With great power comes great responsibility!"
+
 
