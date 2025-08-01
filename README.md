@@ -1,10 +1,10 @@
-# DiscoverME
+<!--# DiscoverME
 <!-- Banner or Spiderman header image -->
-<img src="https://i.imgur.com/SpideyBanner123.png" alt="Spidey Banner" style="width:100%;"/>
+<!--<img src="https://i.imgur.com/SpideyBanner123.png" alt="Spidey Banner" style="width:100%;"/>
 
-# 🕸️ Hey there, I'm Vanesha! (a.k.a Spidey-Dev)
+<!--# 🕸️ Hey there, I'm Vanesha! (a.k.a Spidey-Dev)
 
-🕷️ Swinging through code with great power and even greater responsibility.
+<!--🕷️ Swinging through code with great power and even greater responsibility.
 
 ---
 
@@ -38,4 +38,4 @@
 🎮 Interests: Games, Comics, and Anime
 🛠️ Motto: "With great power comes great responsibility!"
 
-
+-->
